@@ -77,3 +77,12 @@ It demonstrates **real embedded system concepts** such as:
 |   C1–C4    |  5, 4, 3, 2 |
 
 ---
+
+## 📸 Screenshots & Demo
+
+| Feature | Preview |
+|---------|---------|
+| Circuit Design |https://drive.google.com/file/d/196yUWBUsiOe2BETgSAEjYrT4mTXPU7H3/view?usp=drive_link|
+
+🎥 **Full Working Video:**  
+https://drive.google.com/drive/folders/10i6Js5as5D_3kUrK3MNkSJjL0-ejKPKR?usp=drive_link
