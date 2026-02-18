@@ -86,3 +86,12 @@ It demonstrates **real embedded system concepts** such as:
 
 🎥 **Full Working Video:**  
 https://drive.google.com/drive/folders/10i6Js5as5D_3kUrK3MNkSJjL0-ejKPKR?usp=drive_link
+
+---
+## 📊 System Diagrams
+
+### Flowchart
+![Flowchart](flowchart.png)
+
+### Block Diagram
+![Block Diagram](block_diagram.png)
