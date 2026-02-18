@@ -87,11 +87,18 @@ It demonstrates **real embedded system concepts** such as:
 🎥 **Full Working Video:**  
 https://drive.google.com/drive/folders/10i6Js5as5D_3kUrK3MNkSJjL0-ejKPKR?usp=drive_link
 
----
-## 📊 System Diagrams
+## 📷 Project Screenshots
 
-### Flowchart
-![Flowchart](flowchart.png)
+### 📍 Circuit Diagram
+![Circuit Diagram](images/Intro.png)
 
-### Block Diagram
-![Block Diagram](block_diagram.png)
+### 📍 Menu Screen
+![Menu Screen](images/Menu.png)
+
+### 📍 Add/Save/Deleted
+![Saved](images/Saved.png)  
+![Deleted](images/Deleted.png)
+
+### 📍 Search & View
+![Search](images/Search.png)  
+![View](images/View.png)
